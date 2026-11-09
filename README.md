@@ -124,3 +124,8 @@ being sent to the model.
 Each scene is one image-edit call (plus one small chat call for the prompt).
 Scenes are cached aggressively and the UI never auto-regenerates on every
 poll. The **Re-imagine scene** button is the only way to force a new image.
+
+
+
+
+We didn't need a lot of the files that were uploaded for the weather app but ran short on time, so they are there.
